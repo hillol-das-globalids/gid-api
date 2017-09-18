@@ -32,7 +32,7 @@ var apiPath = {
 			  },
 			  "database": {
 			   "default" :"/domains/{concept}/applications/{application}/databases/{database}/columns",
-			   "all":"/applications/{application}/database/{database}/columns"
+			   "all":"/applications/{application}/databases/{database}/columns"
 			  },
 			  "application": {
 			   "default": "/domains/{concept}/applications/{application}/columns",
